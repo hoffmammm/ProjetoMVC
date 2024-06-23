@@ -1,5 +1,5 @@
 <?php
-require_once 'conexao.php';
+require_once 'models/Task.php';
 class TaskController {
     private $pdo;
 
